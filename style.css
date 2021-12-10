@@ -1,0 +1,20 @@
+a {
+    text-align: center;
+    font-size: 45px;
+    margin: 75px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    border-radius: 10px;
+    border-width: 25px;
+}
+body {
+    background-color: #014182;
+}
+h1 {
+    font-family: sans-serif;
+}
